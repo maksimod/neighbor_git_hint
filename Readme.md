@@ -1,6 +1,6 @@
 # Instruction just for you!
 ## If you haven`t git bash:
-1. Go to [Яндекс](https://git-scm.com/ "Я Yandex!") 
+1. Go to [Git](https://git-scm.com/ "GIT!") 
 2. Download git bash
 ## Linux commands:
 1. ls - shows files and directions (use flag -a to also watch .git folder)
